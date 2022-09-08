@@ -1,0 +1,22 @@
+{
+  "name": "metrodigit",
+  "version": "1.0.0",
+  "engines": {
+    "node": "16.x"
+  },
+  "devDependencies": {
+    "cypress": "^10.1.0"
+  },
+  "scripts": {
+    "test": "cypress run",
+    "open": "cypress open"
+  },
+  "keywords": [
+    "cypress",
+    "testing",
+    "javascript",
+    "typescript"
+  ],
+  "author": "anamaria slabu",
+  "license": "ISC"
+}
